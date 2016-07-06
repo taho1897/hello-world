@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+Praise the Sun!
